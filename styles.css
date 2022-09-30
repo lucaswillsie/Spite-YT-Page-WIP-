@@ -54,10 +54,14 @@ header p {
     border: 3px solid black;
 }
 
+.NVplusMem h1 {
+    color: red;  
+}
+
 .NVplusMem p {
     padding-top: 15%;
     padding-bottom: 25%;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .NVplusMem h1 {
