@@ -60,8 +60,7 @@ header p {
 }
 
 .NVplusMem p {
-    padding-top: 15%;
-    padding-bottom: 25%;
+    padding: 10px 20px;
     font-size: 30px;
 }
 
